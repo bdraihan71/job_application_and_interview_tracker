@@ -15,12 +15,12 @@
                 </svg> Dashboard<span class="badge badge-info">NEW</span>
             </a>
         </li>
-        <li class="c-sidebar-nav-title">Theme</li>
+        {{-- <li class="c-sidebar-nav-title">Theme</li> --}}
         <li class="c-sidebar-nav-item">
             <a class="c-sidebar-nav-link" href="colors.html">
                 <svg class="c-sidebar-nav-icon">
-                    <use xlink:href="vendors/@coreui/icons/svg/free.svg#cil-drop"></use>
-                </svg> Colors
+                    <use xlink:href="vendors/@coreui/icons/svg/free.svg#cil-newspaper"></use>
+                </svg> Job Circular
             </a>
         </li>
         <li class="c-sidebar-nav-item">
@@ -30,7 +30,7 @@
                 </svg> Typography
             </a>
         </li>
-        <li class="c-sidebar-nav-title">Components</li>
+        {{-- <li class="c-sidebar-nav-title">Components</li>
         <li class="c-sidebar-nav-item c-sidebar-nav-dropdown"><a class="c-sidebar-nav-link c-sidebar-nav-dropdown-toggle" href="#">
             <svg class="c-sidebar-nav-icon">
                 <use xlink:href="vendors/@coreui/icons/svg/free.svg#cil-puzzle"></use>
@@ -137,7 +137,7 @@
                     </a>
                 </li>
             </ul>
-        </li>
+        </li> --}}
         {{-- <li class="c-sidebar-nav-item mt-auto">
             <a class="c-sidebar-nav-link c-sidebar-nav-link-success" href="https://coreui.io" target="_top">
                 <svg class="c-sidebar-nav-icon">
